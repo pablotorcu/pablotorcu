@@ -10,7 +10,7 @@
     </g>
     
     <text x="50" y="220" fill="#c9d1d9" font-size="20" font-family="monospace">$ ./start.sh</text>
-    <text x="50" y="250" fill="#58a6ff" font-size="20" font-family="monospace">Starting...</text>
+    <text x="50" y="250" fill="#58a6ff" font-size="20" font-family="monospace">Starting</text>
     
     <circle cx="170" cy="248" r="3" fill="#58a6ff">
         <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite"/>
