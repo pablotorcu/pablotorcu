@@ -1,1 +1,1 @@
-![Pablotorcu's terminal](https://raw.githubusercontent.com/pablotorcu/main/README.svg)
+![Pablotorcu's terminal](https://raw.githubusercontent.com/pablotorcu/README.svg)
