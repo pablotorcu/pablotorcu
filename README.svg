@@ -1,4 +1,4 @@
-<svg width="600" height="300" viewBox="0 0 600 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="300" viewBox="0 0 600 300" fill="none" xmlns="http://www.w3.org/2000/svg">
     <rect width="600" height="300" fill="#1E1E1E"/>
     <text x="50" y="60" fill="#FFFFFF" font-size="24" font-family="monospace">Unity Console - pablotorcu</text>
     
@@ -10,8 +10,8 @@
     </g>
     
     <text x="50" y="200" fill="#569CD6" font-size="20" font-family="monospace">[Error] Build failed.</text>
-    <text x="50" y="200" fill="#569CD6" font-size="20" font-family="monospace">[Error] Android always gives some error >:)</text>
-    <text x="50" y="230" fill="#9CDCFE" font-size="20" font-family="monospace">Retrying</text>
+    <text x="50" y="230" fill="#569CD6" font-size="20" font-family="monospace">[Error] Android always gives some error >:)</text>
+    <text x="50" y="260" fill="#9CDCFE" font-size="20" font-family="monospace">Retrying</text>
     
     <circle cx="170" cy="228" r="3" fill="#9CDCFE">
         <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite"/>
