@@ -1,14 +1,20 @@
-<div style="text-align:center;">
-  <h1 style="animation: colorChange 2s infinite;">¡Hey, devs, welcome!</h1>
-</div>
+## Tic-Tac-Toe
 
-<style>
-  @keyframes colorChange {
-    0% { color: red; }
-    25% { color: orange; }
-    50% { color: yellow; }
-    75% { color: green; }
-    100% { color: blue; }
-  }
-</style>
+### Jugadores:
+- **Jugador 1** (X)
+- **Jugador 2** (O)
 
+### Tablero:
+
+|   |   |   |
+|---|---|---|
+| X |   | O |
+|   | X |   |
+| O |   | X |
+
+### Instrucciones:
+1. Imagina que puedes colocar las "X" o las "O" en las celdas vacías.
+2. Cada jugador coloca su símbolo en las casillas vacías.
+3. El primero que haga una línea horizontal, vertical o diagonal gana.
+
+¡Haz tus jugadas en las celdas de arriba abajo! 🎮
