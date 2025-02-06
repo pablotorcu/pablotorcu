@@ -1,6 +1,6 @@
 <svg width="800" height="300" viewBox="0 0 600 300" fill="none" xmlns="http://www.w3.org/2000/svg">
     <rect width="800" height="300" fill="#1E1E1E"/>
-    <text x="50" y="60" fill="#bc2cff" font-size="24" font-family="monospace">Unity Console - pablotorcu</text>
+    <text x="50" y="60" fill="#982acb" font-size="24" font-family="monospace">Unity Console - pablotorcu</text>
     
     <text x="50" y="100" fill="#b369d6" font-size="20" font-family="monospace">[Log] Compiling scripts...</text>
     <g>
@@ -13,13 +13,13 @@
     <text x="50" y="220" fill="#D16969" font-size="18" font-family="monospace">[Error] Android always gives some error >:)</text>
     <text x="50" y="250" fill="#FFFFFF" font-size="18" font-family="monospace">Retrying</text>
     
-    <circle cx="150" cy="260" r="3" fill="#FFFFFF">
+    <circle cx="150" cy="250" r="3" fill="#FFFFFF">
         <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="160" cy="260" r="3" fill="#FFFFFF">
+    <circle cx="160" cy="250" r="3" fill="#FFFFFF">
         <animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="0.3s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="170" cy="260" r="3" fill="#FFFFFF">
+    <circle cx="170" cy="250" r="3" fill="#FFFFFF">
         <animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="0.6s" repeatCount="indefinite"/>
     </circle>
 </svg>
