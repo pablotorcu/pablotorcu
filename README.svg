@@ -13,13 +13,13 @@
     <text x="50" y="220" fill="#cb2a2a" font-size="18" font-family="monospace">[Error] Android always gives some error >:)</text>
     <text x="50" y="250" fill="#b369d6" font-size="18" font-family="monospace">Retrying</text>
     
-    <circle cx="150" cy="250" r="3" fill="#b369d6">
+    <circle cx="140" cy="250" r="2" fill="#b369d6">
         <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="160" cy="250" r="3" fill="#b369d6">
+    <circle cx="150" cy="250" r="2" fill="#b369d6">
         <animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="0.3s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="170" cy="250" r="3" fill="#b369d6">
+    <circle cx="160" cy="250" r="2" fill="#b369d6">
         <animate attributeName="opacity" values="0;1;0" dur="1.5s" begin="0.6s" repeatCount="indefinite"/>
     </circle>
 </svg>
