@@ -5,7 +5,7 @@
     <text x="50" y="100" fill="#b369d6" font-size="20" font-family="monospace">[Log] Compiling scripts...</text>
     <g>
         <text x="50" y="130" fill="#ffd175" font-size="18" font-family="monospace">Assets/Scripts/PlayerController.cs (17,5): warning CS0219</text>
-        <text x="50" y="150" fill="#ffd175" font-size="18" font-family="monospace">Assets/Scripts/GithubREADME.cs (29,8): warning CS0414</text>
+        <text x="50" y="150" fill="#ffd175" font-size="18" font-family="monospace">Assets/Scripts/GithubREADME.md (29,8): warning CS0414</text>
         <text x="50" y="170" fill="#cb2a2a" font-size="18" font-family="monospace">Assets/Plugins/Android/AndroidManifest.xml (42,13): error CS1026</text>
     </g>
     
