@@ -4,14 +4,14 @@
     
     <text x="50" y="100" fill="#DCDCAA" font-size="20" font-family="monospace">[Log] Compiling scripts...</text>
     <g>
-        <text x="50" y="130" fill="#4EC9B0" font-size="18" font-family="monospace">Assets/Scripts/PlayerController.cs (17,5): warning CS0219</text>
+        <text x="50" y="130" fill="#DCDCAA" font-size="18" font-family="monospace">Assets/Scripts/PlayerController.cs (17,5): warning CS0219</text>
         <text x="50" y="150" fill="#D16969" font-size="18" font-family="monospace">Assets/Scripts/GameManager.cs (42,13): error CS1026</text>
-        <text x="50" y="170" fill="#4EC9B0" font-size="18" font-family="monospace">Assets/Scripts/GithubREADME.cs (29,8): warning CS0414</text>
+        <text x="50" y="170" fill="#DCDCAA" font-size="18" font-family="monospace">Assets/Scripts/GithubREADME.cs (29,8): warning CS0414</text>
     </g>
     
-    <text x="50" y="200" fill="#569CD6" font-size="20" font-family="monospace">[Error] Build failed.</text>
-    <text x="50" y="230" fill="#569CD6" font-size="20" font-family="monospace">[Error] Android always gives some error >:)</text>
-    <text x="50" y="260" fill="#9CDCFE" font-size="20" font-family="monospace">Retrying</text>
+    <text x="50" y="200" fill="#D16969" font-size="20" font-family="monospace">[Error] Build failed.</text>
+    <text x="50" y="230" fill="#D16969" font-size="20" font-family="monospace">[Error] Android always gives some error >:)</text>
+    <text x="50" y="260" fill="#DCDCAA" font-size="20" font-family="monospace">Retrying</text>
     
     <circle cx="55" cy="280" r="3" fill="#9CDCFE">
         <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite"/>
